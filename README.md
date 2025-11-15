@@ -2,9 +2,9 @@
 
 **Frontend Developer | React JS | Web Developer**
 
-📧 **Email:** spatil73715@gmail.com
-🔗 **LinkedIn:**  www.linkedin.com/in/sakshi-patil-199008366
-🔗 **GitHub:** https://github.com/spatil73715
+📧 **Email:** spatil73715@gmail.com <br>
+🔗 **LinkedIn:**  www.linkedin.com/in/sakshi-patil-199008366 <br>
+🔗 **GitHub:** https://github.com/spatil73715 <br>
 
 ---
 
@@ -39,9 +39,9 @@ Enthusiastic and dedicated developer skilled in building responsive and user-fri
 ---
 
 ## 🎓 **Education**
-**B.Sc / B.Tech / Diploma**  B.Sc(ECS)
-College Name  Sangola College Sangola
-Year of Passing  2026
+**B.Sc**  B.Sc(ECS)
+College Name-Sangola College Sangola
+Year of Passing -2026
 
 ---
 
