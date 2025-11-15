@@ -1,1 +1,56 @@
-# resume
+🌸**Sakshi Patil**
+
+**Frontend Developer | React JS | Web Developer**
+
+📧 **Email:** spatil73715@gmail.com
+🔗 **LinkedIn:**  www.linkedin.com/in/sakshi-patil-199008366
+🔗 **GitHub:** https://github.com/spatil73715
+
+---
+
+## 🔥 **About Me**
+Enthusiastic and dedicated developer skilled in building responsive and user-friendly web applications. Passionate about ReactJS, UI design, and creating smooth user experiences. Always eager to learn and work on real-world projects.
+
+---
+
+## 🛠️ **Technical Skills**
+### **Frontend**
+
+- JavaScript (ES6+)
+- python
+- HTML5, CSS3  
+- Responsive Design  
+
+### **Backend / Other**
+- Django  
+- .NET  
+- Git & GitHub  
+- REST APIs  
+
+---
+## 📚 **Projects**
+
+### **🍕 Pizza Ordering Web App (Django)**
+- Users can browse pizzas, add to cart, checkout  
+- Live offers rotation using JS  
+- Dynamic cart counter update  
+- Theme toggle (dark/light mode)  
+- Form validation & interactive UI  
+---
+
+## 🎓 **Education**
+**B.Sc / B.Tech / Diploma**  B.Sc(ECS)
+College Name  Sangola College Sangola
+Year of Passing  2026
+
+---
+
+## 💡 **Interests**
+- Web Development  
+- UI/UX Design  
+- Learning new technologies  
+
+---
+### ⭐ _Thanks for visiting my GitHub profile!_
+### ⭐ _Thanks for visiting my GitHub profile!_
+### ⭐ _Thank you for visiting my resume!_
