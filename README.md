@@ -51,6 +51,4 @@ Year of Passing -2026
 - Learning new technologies  
 
 ---
-### ⭐ _Thanks for visiting my GitHub profile!_
-### ⭐ _Thanks for visiting my GitHub profile!_
 ### ⭐ _Thank you for visiting my resume!_
