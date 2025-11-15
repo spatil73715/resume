@@ -39,8 +39,8 @@ Enthusiastic and dedicated developer skilled in building responsive and user-fri
 ---
 
 ## 🎓 **Education**
-**B.Sc**  B.Sc(ECS)
-College Name-Sangola College Sangola
+**B.Sc**  B.Sc(ECS) <br>
+College Name-Sangola College Sangola <br>
 Year of Passing -2026
 
 ---
